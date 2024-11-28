@@ -1,8 +1,8 @@
 # Welcome, guys
-Welcome to **Use Full People**!
+Welcome to **Useful People**!
 Our organization is a team of ambitious developers eager to learn new things and improve.
 We strive for constant growth and are always open to new ideas.
-**Use Full People** is something that will help young and ambitious developers make money on their work; we also provide many lucrative offers.
+**Useful People** is something that will help young and ambitious developers make money on their work; we also provide many lucrative offers.
 
 ### What Use Full People offers you:
 - 🌟 The opportunity to post your developments and earn money from them.
